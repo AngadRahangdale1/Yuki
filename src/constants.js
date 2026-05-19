@@ -1,1 +1,1 @@
-export const BD_NAME = "YukiDB";
+export const DB_NAME = "YukiDB";
